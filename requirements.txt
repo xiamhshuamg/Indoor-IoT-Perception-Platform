@@ -1,0 +1,13 @@
+fastapi==0.115.6
+uvicorn[standard]==0.32.1
+pyserial==3.5
+pymysql==
+# MySQL 连接
+MYSQL_HOST==
+MYSQL_PORT==
+MYSQL_USER==root
+MYSQL_PASSWORD==
+MYSQL_DB==
+
+# 你之前的串口
+SERIAL_PORT==COM6
