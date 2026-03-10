@@ -132,3 +132,17 @@ indoor-iot-platform/
 ---
 
 **项目状态**：课程设计完成，功能闭环可演示，后续可扩展真实硬件接入与安全权限控制。
+
+
+<img width="194" height="374" alt="image" src="https://github.com/user-attachments/assets/6c42beea-1559-420b-a10f-78665ef448e6" />
+<img width="693" height="357" alt="image" src="https://github.com/user-attachments/assets/f541ca1e-26f3-4794-a008-d4eae9923ff6" />
+<img width="627" height="355" alt="image" src="https://github.com/user-attachments/assets/321159ba-6a26-4ba6-ab17-70296269aa1d" />
+<img width="655" height="316" alt="image" src="https://github.com/user-attachments/assets/c5ee436d-47ff-469b-b951-1027b515167e" />
+<img width="656" height="347" alt="image" src="https://github.com/user-attachments/assets/1df01f68-5e9c-4256-bfa1-f67035e02979" />
+<img width="692" height="358" alt="image" src="https://github.com/user-attachments/assets/a729ef1c-60da-4ecd-9bf3-d7edff56f3ca" />
+<img width="631" height="331" alt="image" src="https://github.com/user-attachments/assets/05132fe2-1e35-437e-aed4-3fc3d98821cc" />
+
+
+
+
+
